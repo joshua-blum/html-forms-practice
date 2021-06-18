@@ -1,0 +1,22 @@
+main {
+    margin-bottom: 40px;
+}
+
+main form {
+    display: flex;
+    flex-direction: column;
+    padding-left: 0;
+    justify-content: center;
+}
+
+main form div {
+    padding: 5px;
+    display: flex;
+    flex: 1;
+}
+
+input, textarea {
+    display: flex;
+    flex:1;
+}
+
